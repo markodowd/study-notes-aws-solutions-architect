@@ -1,3 +1,19 @@
+# Identity and Access Management (IAM)
+
+<hr />
+
+# IAM
+
+- Manage identity & access in single AWS account
+- Not using AWS Organisations
+
+# IAM Identity Center
+
+- Centrally manage access over multiple accounts
+- Uses AWS Organisations
+
+<hr />
+
 # Users
 
 - Represents an individual with credentials to interact with AWS
@@ -28,4 +44,6 @@
     - Managed Policies: Created by AWS or users, reusable across entities
     - Inline Policies: Directly embedded in a single user, group, or role, for specific use cases
 - Contain statements specifying actions, resources, and conditions
+
+<hr />
 
