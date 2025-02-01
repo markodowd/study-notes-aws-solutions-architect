@@ -4,6 +4,8 @@
 
 A collection of bullet points for each AWS Solutions Architect topic as taught by [AWS Certified Solutions Architect: Zero to Mastery](https://zerotomastery.io/courses/aws-certified-solutions-architect-bootcamp/) and using ChatGPT summaries
 
+# Topics
+
 - [IAM](1-iam.md)
 - [Compute](2-compute.md)
 - [Elastic Load Balancing & Scaling](3-elastic-load-balancing-and-auto-scaling.md)
